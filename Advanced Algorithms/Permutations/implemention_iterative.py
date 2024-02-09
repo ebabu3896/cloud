@@ -13,4 +13,4 @@ def per_iter(nums):
     return perms
 
 nums = [1, 2, 3, 4]
-per_iter(nums)
+print(per_iter(nums))
