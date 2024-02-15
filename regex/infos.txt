@@ -1,0 +1,11 @@
+0) re Module 00:00
+1) Methods to search for matches 06:38
+2) Methods on a match object 09:55
+3) Meta Characters 12:25
+4) Special Sequences 16:15
+5) Sets 21:14
+6) Quantifier 25:30
+7) Conditions 35:45
+8) Grouping 40:00
+9) Modification 48:07
+10) Compilation Flags 1:01:48
