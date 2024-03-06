@@ -11,7 +11,7 @@ def prime_factors(num):
             num = num // i
     
     if num > 2:
-        print(n)
+        print(num)
 
 num = 555
 prime_factors(num)
