@@ -1,0 +1,1 @@
+#copying one string to another without using strcpy
