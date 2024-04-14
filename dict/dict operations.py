@@ -100,3 +100,4 @@ print(users)
 user2 = {5: 'bsakdhb', 6:'uhlow'}
 users.update(user2)
 print(users)
+#Ouptut: {0: 'Mario', 1: 'Luigi', 2: 'raju', 3: 'bala', 5: 'bsakdhb', 6: 'uhlow'}
